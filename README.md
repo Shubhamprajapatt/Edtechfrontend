@@ -1,8 +1,8 @@
 
 ## Live Link
 https://studyaddal.netlify.app/
-## Study Adda
-Study Adda is an educational technology platform designed to connect instructors and learners. Instructors can create courses, monitor their earnings, and manage their profiles. Students can purchase courses, access them, and track their progress.
+## StudyCircle
+StudyCircle is an educational technology platform designed to connect instructors and learners. Instructors can create courses, monitor their earnings, and manage their profiles. Students can purchase courses, access them, and track their progress.
 
 ## Features
 
